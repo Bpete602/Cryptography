@@ -1,0 +1,17 @@
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\bin\Debug\CryptoProject.exe.config
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\bin\Debug\CryptoProject.exe
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\bin\Debug\CryptoProject.pdb
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\MainWindow.g.cs
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\App.g.cs
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject_MarkupCompile.cache
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject_MarkupCompile.lref
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\MainWindow.baml
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.g.resources
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.Properties.Resources.resources
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.csproj.GenerateResource.cache
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.csproj.CoreCompileInputs.cache
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.exe
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoProject.pdb
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoKeyManagerView.g.cs
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Brent\source\repos\CryptoProject\CryptoProject\obj\Debug\CryptoKeyManagerView.baml
