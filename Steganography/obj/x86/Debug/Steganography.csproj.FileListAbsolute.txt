@@ -1,0 +1,9 @@
+C:\Users\Brent\Desktop\Project\Steganography\bin\Debug\Steganography.pdb
+C:\Users\Brent\Desktop\Project\Steganography\obj\x86\Debug\Steganography.csprojAssemblyReference.cache
+C:\Users\Brent\Desktop\Project\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\Brent\Desktop\Project\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.cache
+C:\Users\Brent\Desktop\Project\Steganography\obj\x86\Debug\Steganography.csproj.CoreCompileInputs.cache
+C:\Users\Brent\Desktop\Project\Steganography\obj\x86\Debug\Steganography.pdb
+C:\Users\Brent\Desktop\Project\Steganography\bin\Debug\Steganography.dll.config
+C:\Users\Brent\Desktop\Project\Steganography\bin\Debug\Steganography.dll
+C:\Users\Brent\Desktop\Project\Steganography\obj\x86\Debug\Steganography.dll
